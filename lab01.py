@@ -10,7 +10,7 @@ if __name__== "__main__":
  ##############################################
  #     Procedure 1                            #
  # ############################################ 
-# Add Print Statement here:
+# Remove Print Statement here:
 
     print('DevNet')
 
