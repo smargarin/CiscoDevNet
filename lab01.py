@@ -11,7 +11,6 @@ if __name__== "__main__":
  ##############################################
  #     Procedure 1                            #
  # ############################################ 
-#Modify for lab02
 # Add Print Statement here:
 
     print('DevNet')
