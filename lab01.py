@@ -5,7 +5,6 @@ import yaml
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as MD
 
-#Add modification
 # Main funtion
 if __name__== "__main__":
  ##############################################
